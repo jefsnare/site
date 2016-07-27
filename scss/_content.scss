@@ -44,6 +44,13 @@ article {
   }
 }
 
+.workflow {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
+
 .technique {
   float: left;
   width: 33.3%;
