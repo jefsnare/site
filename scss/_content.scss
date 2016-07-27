@@ -18,6 +18,29 @@ article {
     max-width: 40rem;
     margin: 1rem auto;
     font-size: 1.2rem;
+
+    span {
+      position: relative;
+
+      &:after, &:before {
+        position: absolute;
+        bottom: 0px;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        opacity: .5;
+        border-bottom: 5px solid #f9690e;
+        transform: skew(0deg, -1deg);
+        content: "";
+      }
+
+      &:after {
+        border-color: rgba(#000, .5);
+        border-width: 2px;
+        bottom: 1px;
+        transform: skew(0deg, 0deg);
+      }
+    }
   }
 }
 
