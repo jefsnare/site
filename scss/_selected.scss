@@ -1,0 +1,12 @@
+@keyframes select-rotate {
+  0% { opacity: 0; transform: rotate(0deg); box-shadow: 1px 3px 0 0 rgba(0, 0, 0, 0);}
+  50% { opacity: 1; transform: rotate(-10deg); box-shadow: 1px 3px 0 0 rgba(0, 0, 0, 0.35);}
+  100% { opacity: 1; transform: rotate(-3deg);  box-shadow: 1px 3px 0 0 rgba(0, 0, 0, 0.65);}
+}
+
+.selected {
+  display: inline-block;
+  background: #f9690e;
+  font-size: 105%;
+  animation: select-rotate 1s cubic-bezier(.49,.35,.23,1) forwards ;
+}

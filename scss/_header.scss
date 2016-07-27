@@ -1,0 +1,62 @@
+header {
+  @media (min-width: 768px) {
+    height: 100vh;
+    background: linear-gradient(-180deg, red 33.3%, white 33.3%, white 66.6%, mediumblue 66.6%);
+  }
+
+  figure {
+    margin: 0;
+  }
+
+  img {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    object-fit: cover;
+
+    @media (min-width: 768px) {
+      float: left;
+      height: 100vh;
+      width: 49vw;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .intro {
+      float: right;
+      display: flex;
+      width: 49vw;
+      height: 100vh;
+      padding: 2vh 3vw;
+
+      .inner {
+        margin: auto;
+      }
+    }
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    margin: 0;
+
+    @media (min-width: 960px) {
+      font-size: 3rem
+    }
+  }
+
+  h2 {
+    font-size: 1.2rem;
+
+    @media (min-width: 960px) {
+      font-size: 1.5rem
+    }
+  }
+
+  p {
+    font-size: 1rem;
+
+    @media (min-width: 960px) {
+      font-size: 1.2rem
+    }
+  }
+}
