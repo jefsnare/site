@@ -20,8 +20,14 @@ article {
     margin: 1rem auto;
     font-size: 1.2rem;
 
-    span {
+    a {
       position: relative;
+      color: #000;
+      transition: color .2s ease-in-out;
+
+      &:hover {
+        color: #e85d06;
+      }
 
       &:after, &:before {
         position: absolute;
