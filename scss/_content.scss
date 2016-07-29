@@ -27,8 +27,12 @@ article {
   left: 0;
   right: 0;
   bottom: 0;
-  width: 50%;
+  width: 100%;
   z-index: -1;
+
+  @media (min-width: 768px) {
+    width: 50%;
+  }
 
   h1 {
     color: #333;
