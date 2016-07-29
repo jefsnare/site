@@ -6,12 +6,12 @@ article {
 .further-introduction {
   padding-top: 1rem;
   background: #d2d7d3;
-  box-shadow: 1px 0px 6px 0px rgba(#000, 0.67);
+  box-shadow: 1px 0 6px 0 rgba(#000, 0.67);
 
   h1 {
     margin: 0;
     color: #333;
-    text-shadow: 5px 3px 1px #f9690e;
+    text-shadow: 4px 2px 0 #f9690e;
     text-align: center;
   }
 
@@ -19,35 +19,6 @@ article {
     max-width: 40rem;
     margin: 1rem auto;
     font-size: 1.2rem;
-
-    a {
-      position: relative;
-      color: #000;
-      transition: color .2s ease-in-out;
-
-      &:hover {
-        color: #e85d06;
-      }
-
-      &:after, &:before {
-        position: absolute;
-        bottom: 0px;
-        left: 0;
-        width: 100%;
-        height: 2px;
-        opacity: .5;
-        border-bottom: 5px solid #f9690e;
-        transform: skew(0deg, -1deg);
-        content: "";
-      }
-
-      &:after {
-        border-color: rgba(#000, .5);
-        border-width: 2px;
-        bottom: 1px;
-        transform: skew(0deg, 0deg);
-      }
-    }
   }
 }
 
@@ -56,9 +27,15 @@ article {
   bottom: 0;
   width: 100%;
   z-index: -1;
+
+  h1 {
+    display: inline-block;
+    padding: 0 2rem 2rem 0;
+    color: #333;
+    text-shadow: 4px 2px 0 #f9690e;
+  }
 }
 
 .technique {
-  float: left;
-  width: 33.3%;
+
 }
