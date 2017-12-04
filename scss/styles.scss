@@ -1,15 +1,15 @@
 @import 'normalize';
 
-@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  background: #fff;
-  font-family: 'Dosis', sans-serif;
+  background: #ecf0f1;
   animation: fadeIn 1s linear;
+  font-family: 'Dosis', sans-serif;
 }
 
 h1,h2,h3,h4 {
@@ -18,9 +18,9 @@ h1,h2,h3,h4 {
 
 a {
   position: relative;
-  text-decoration: none;
+  transition: color 0.2s ease-in-out;
   color: #000;
-  transition: color .2s ease-in-out;
+  text-decoration: none;
 
   &:hover {
     color: #e85d06;
@@ -46,7 +46,78 @@ a {
   }
 }
 
-@import
-'header',
-'content',
-'selected';
+main {
+  display: flex;
+  width: 100%;
+  max-width: 60rem;
+  margin: 0 auto;
+
+  @media screen and (max-width: 640px) {
+    flex-direction: column;
+  }
+}
+
+aside {
+  flex: 1;
+  margin: 1rem;
+
+  figure {
+    margin: 1rem auto;
+    text-align: center;
+
+    img {
+      max-width: 350px;
+      height: auto;
+      border-radius: 100%;
+
+      @media screen and (max-width: 350px) {
+        max-width: 100%;
+      }
+    }
+  }
+
+  figcaption {
+    margin: 1rem;
+    text-align: center;
+  }
+
+  h1, p {
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+
+article {
+  flex: 1;
+  margin: 0 auto;
+  padding: 3rem;
+  
+  @media screen and (max-width: 640px) {
+    padding: 3rem 1rem;
+  }
+}
+
+.introduction {
+  padding-top: 1rem;
+
+  h2, h3 {
+    margin: 0;
+    color: #333;
+    text-shadow: 3px 1px 0 #f9690e;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  h3 {
+    font-size: 22px;
+  }
+
+  p {
+    max-width: 42rem;
+    margin: 1rem auto;
+    font-size: 1.2rem;
+  }
+}
