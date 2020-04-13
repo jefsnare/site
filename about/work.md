@@ -25,3 +25,8 @@ In my previous projects, I've worked within several environments:
 - Product Information Systems
 - .NET Core / .NET MVC projects
 
+## Interesting reads
+
+Software development
+
+- <a href="https://martinfowler.com/articles/micro-frontends.html" target="_blank">Micro frontends - Martin Fowler</a>

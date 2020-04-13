@@ -11,6 +11,8 @@ eleventyNavigation:
 
 Passionate about everything digital, photography and music. Commonly interested in many topics.
 
+<img src="/img/jeffreydegraaf.jpg" alt="Jeffrey de Graaf - during holiday" width="200" />
+
 🧑 < 30
 🏙️ Leiden
 💍 Married
@@ -32,7 +34,7 @@ After a working day I really like to cook some food, drink a glass of wine and e
 ### Photography 📷
 
 I take a lot of photos, during a walk or holidays. It's a challenge for me to go out, with minimal gear and deliver the most exciting composition and detail.
-Some organisations requested me to take photo's at their event, <a href="https://ladolcevita-more.com/albums/">view photos</a>.
+Some organisations requested me to take photo's at their event, <a href="https://ladolcevita-more.com/albums/" target="_blank">view photos</a>.
 
 Some photos are available to buy:
 
