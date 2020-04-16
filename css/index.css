@@ -224,3 +224,10 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+blockquote  * {
+  color: var(--blue);
+  font-weight: 700;
+  font-style: italic;
+  opacity: 0.6;
+}

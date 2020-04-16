@@ -9,6 +9,8 @@ eleventyNavigation:
 
 ## Current position
 
+<a href="https://github.com/jefsnare" target="_blank">[Github]</a> | <a href="https://stackoverflow.com/users/1535919/jeffrey-de-graaf?tab=topactivity" target="_blank">[StackOverflow]</a>
+
 **Front-end Consultant (Ahold Delhaize)**
 React.js, TypeScript, Node.js
 Bloomreach (Hippo), Microfrontend
@@ -24,6 +26,12 @@ In my previous projects, I've worked within several environments:
 - (Headless) CMS solutions (e.g. Sitecore, Kentico, Magento)
 - Product Information Systems
 - .NET Core / .NET MVC projects
+
+## Previous talks
+
+- 2018-09-11 <a href="http://www.sugnl.net/archief/sugnl-meeting-september-2018-valtech.aspx#onderwerp" target="_blank">Working with Creative Exchange in SXA as a front-end developer</a> at SUGNL Meeting
+- 2017-05-30 <a href="https://www.youtube.com/watch?v=tSHLrbPoV4g" target="_blank">Frontend architectuur</a> at Frontend developer meetup
+
 
 ## Interesting reads
 
