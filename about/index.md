@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Passionate about everything digital, photography and music. Commonly interested in many topics.
 
-<img src="/img/jeffreydegraaf.jpg" alt="Jeffrey de Graaf - during holiday" width="200" />
+<img src="/img/jeffreydegraaf.jpg" alt="Jeffrey de Graaf - during holiday" />
 
 🧑 < 30
 🏙️ Leiden

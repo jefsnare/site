@@ -18,6 +18,8 @@ Bloomreach (Hippo), Microfrontend
 
 Mainly focused on Agile software development with several teams, working on the <a href="https://www.ah.nl/" rel="nofollow" target="_blank">ah.nl</a> digital platform.
 
+<img src="/img/jeffrey-work.jpg" alt="Jeffrey de Graaf - work" />
+
 ## Experience
 
 Building front-end for medium to large scale web-apps and websites, with a toolkit including React, Node, SASS/CSS, HTML5, Vanilla JS (ES6), Yarn and NPM Scripts.
