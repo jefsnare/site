@@ -13,7 +13,7 @@ In this article I describe my simple but effective Git workflow I’ve used many
 Before we get started we add some aliases to git config.
 `git config --global -e` and add the following to the file;
 
-```
+```bash
 [alias]
     co = checkout
     ci = commit
@@ -30,7 +30,7 @@ These aliases may come handy and are shortcuts to prevent typing that much.
 Let’s create a Git project and initialize some things. We start with git init to initialize an empty Git repository.
 Then we create the workflow branches we needed;
 
-```
+```bash
 git branch release 
 git branch live
 ```
@@ -55,7 +55,7 @@ In this workflow I use ‘feature branches’. For example, if you are developin
 ### Merge feature branch into master
 When I completed the development in the feature branch I can merge this into the master branch. Make sure the branch is pushed before merging into master.
 
-```
+```bash
 git push origin branchname 
 git checkout master 
 git merge branchname 
@@ -76,7 +76,7 @@ After the release is collected in the release branch we can merge the release br
 It’s easy to use git tag for versioning releases or live versions. I use tags in the release branch and tag them if they are complete to deploy to live.
 With git tag you could add a tag to the current commit / state. A tag can contain v1.2.3 or contactform or foo-bar. Tags can be anything. But I use them to track versions in the release branch so I create a tag with the following commands;
 
-```
+```bash
 git release 
 git tag v.1.9.4 
 git pt
