@@ -1,6 +1,6 @@
 ---
 title: Front-end roadmap 2017 — No jQuery please
-description: More control of our dependencies in projects and basic JavaScript level
+description: No more jQuery in projects and improvements on JavaScript level
 date: 2017-03-13
 tags:
   - roadmap
