@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Al sinds de verhuizing, bijna 2 jaar geleden zijn er uiteraard nog steeds heel veel dingen die nog niet afgerond zijn. Een ding, raamhorren, stond hoog op het lijstje. We houden niet van vliegen, wespen, bijen en andere vliegende wezens in ons huis. 
+Al sinds de verhuizing (bijna 2 jaar geleden) zijn er uiteraard nog steeds heel veel dingen die nog niet afgerond zijn. Een ding, raamhorren, stond hoog op het lijstje. We houden niet van vliegen, wespen, bijen en andere vliegende wezens in ons huis. 
 
 Dan kom je in de wondere wereld van raamhorren. Ons huis uit de jaren 80 heeft heel veel verschillende afmetingen qua kozijn en raamstellen. Bij de betere bouwmarkt kwam ik al snel diverse mogelijkheden van het merk <a href="https://nl.wikipedia.org/wiki/Bruynzeel_(bedrijf)" target="_blank" rel="noreferrer nofollow">Bruynzeel</a> tegen.
 
@@ -60,7 +60,7 @@ Nadenken voordat je begint, leg het even rustig op een werktafel die groot genoe
   <figcaption>Houten latten zagen &copy; Jeffrey de Graaf</figcaption>
 </figure>
 
-Het kan gebeuren, en dat gebeurde mij ook. Dat je iets verkeerd zaagt. Zorg voor voldoende hout zodat je wel door kan met je werkzaamheden. Bij het zagen in verstek is het handig om de precies zaagrichting af te tekenen.
+Het kan gebeuren, en dat gebeurde mij ook, dat je iets verkeerd zaagt. Zorg voor voldoende hout zodat je wel door kan met je werkzaamheden. Bij het zagen in verstek is het handig om de zaagrichting af te tekenen.
 
 Zodra het frame gezaagd is, kan het verlijmd worden. Ik heb ervoor gekozen 2 frames per raamhor te maken en het horgaas er tussen te spannen. Het horgaas vast maken aan de houten latten, het restant afsnijden en daarna goed vast maken met bijvoorbeeld een tacker of kleine spijkertjes.
 
@@ -69,16 +69,16 @@ Zodra het frame gezaagd is, kan het verlijmd worden. Ik heb ervoor gekozen 2 fra
   <figcaption>Monteren van het frame &copy; Jeffrey de Graaf</figcaption>
 </figure>
 
-Tijdens het in elkaar zetten van het hor kwam ik er achter dat het raamhor niet echt heel stevig was, ik heb daarom uiteindelijk toch raamhoeken geplaatst.
+Tijdens het monteren van het hor kwam ik er achter dat het raamhor niet echt heel stevig was, ik heb daarom uiteindelijk toch raamhoeken geplaatst.
 
 <figure>
   <img src="/img/blogs/raamhor/hoeken.jpg" alt="Klusproject, gereedschap"/>
   <figcaption>Extra stevigheid d.m.v. raamhoeken &copy; Jeffrey de Graaf</figcaption>
 </figure>
 
-Dit heb ik uiteindelijk 5 keer herhaald en elke keer een raamhor op maat weten te maken. Het is uiteraard ook mooi om deze horren te schuren, gronden en in de lak te zetten. Dat doe ik later, als we onze kozijnen ook gaan lakken. Anders krijgen we kleurverschil.
+Dit heb ik uiteindelijk 5 keer herhaald en elke keer een raamhor op maat weten te maken. Het is uiteraard ook mooi om deze horren te schuren, gronden en in de lak te zetten. Dat doe ik later, als we onze kozijnen ook gaan lakken. Anders krijgen we wellicht kleurverschillen.
 
-Ophangen heb ik gedaan door 2 schanieren (plastic) te gebruiken en een magneetsnapper. Let op tijdens het 'inhangen' iemand je helpt en een waterpas gebruikt om het raamhor zo strak mogelijk te monteren.
+Ophangen heb ik gedaan door 2 schanieren te gebruiken en een magneetsnapper. Let op tijdens het 'inhangen' dat iemand je helpt en een waterpas gebruikt om het raamhor zo waterpas mogelijk te monteren.
 
 Uiteindelijk was dit een leuk klus en voordat ik het wist had ik 5 raamhorren op maat voor onze woning. Uiteindelijke materiaalkosten lagen onder de 120 euro, voor 5 raamhorren!
 
