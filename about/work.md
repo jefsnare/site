@@ -7,27 +7,27 @@ eleventyNavigation:
   order: 3
 ---
 
-## Current position
+I'm a DevOps Engineer and mainly working on web platforms.
+
+My experience is more than nine years of development experience in e-commerce, custom-built internal tools, and marketing platforms.
+Overall perspective, modularization from the core, and a pragmatic approach are characteristics I've developed over time.
+I'm always keen to learn something new, and I want to know every detail about it.
 
 <a href="https://github.com/jefsnare" target="_blank">[Github]</a> | <a href="https://stackoverflow.com/users/1535919/jeffrey-de-graaf?tab=topactivity" target="_blank">[StackOverflow]</a>
-
-**Front-end Consultant (Ahold Delhaize)**
-React.js, TypeScript, Node.js
-Bloomreach (Hippo), Microfrontend
-*contracted from <a href="https://www.avivasolutions.nl/" rel="nofollow" target="_blank">Aviva Solutions</a>*
-
-Mainly focused on Agile software development with several teams, working on the <a href="https://www.ah.nl/" rel="nofollow" target="_blank">ah.nl</a> digital platform.
 
 <img src="/img/jeffrey-work.jpg" alt="Jeffrey de Graaf - work" />
 
 ## Experience
 
-Building front-end for medium to large scale web-apps and websites, with a toolkit including React, Node, SASS/CSS, HTML5, Vanilla JS (ES6), Yarn and NPM Scripts.
+In the past years, I've been building and maintaining medium to large scale web-apps and websites.
 
-In my previous projects, I've worked within several environments:
-- (Headless) CMS solutions (e.g. Sitecore, Kentico, Magento)
-- Product Information Systems
-- .NET Core / .NET MVC projects
+- Micro frontends and microservices
+- (Headless) CMS solutions (Bloomreach Hippo CMS, Sitecore, Kentico, Magento)
+- Performance testing and analyzing with Perfana, Grafana, Sitespeed, Rakyll Hey, and Node Clinic
+- Building UI with React.js, Angular, Web Components, and Zurb Foundation
+- Microsoft Azure, CI/CD Jenkins, and Github Actions, Kubernetes
+- Decentralized and distributed systems
+- High performant API's and Web frontends
 
 ## Previous talks
 

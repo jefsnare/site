@@ -21,15 +21,15 @@ Passionate about everything digital, photography and music. Commonly interested 
 
 ## Work
 
-I'm a Front-end Consultant, currently working at Ahold Delhaize.
+I'm a DevOps Engineer.
 
-On a working day, I care about bringing the best web experience to end users. Carefully thinking about the optimized front-end part of the website. Validating use cases, improving website speed but also pragmatically improve (technical) parts of the ecosystem.
+On a working day, I care about bringing the best experience to end users. Validating use cases, improving website speed but also pragmatically improve (technical) parts of the ecosystem.
 
 [Read more about my work and experience](/about/work)
 
-## Hobby
+## What else
 
-After a working day I really like to cook some food, drink a glass of wine and enjoy. Next to that I have several other hobbies.
+In my spare time playing some board games, do some cooking (Curry, Rendang, Pasta, but mostly Italian and Thai kitchen), and sometimes some sports.
 
 ### Photography 📷
 
