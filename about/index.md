@@ -13,7 +13,7 @@ Passionate about everything digital, photography and music. Commonly interested 
 
 <img src="/img/jeffreydegraaf.jpg" alt="Jeffrey de Graaf - during holiday" />
 
-🧑 < 30
+🧑 30
 🏙️ Leiden
 💍 Married
 🎵 Music (former drummer)
