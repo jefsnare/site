@@ -11,17 +11,9 @@ eleventyNavigation:
 
 Passionate about everything digital, photography and music. Commonly interested in many topics.
 
-<img src="/img/jeffreydegraaf.jpg" alt="Jeffrey de Graaf - during holiday" />
-
-🧑 30
-🏙️ Leiden
-💍 Married
-🎵 Music (former drummer)
-🍷, 🍺, 🥃 and 🍖
+<img src="/img/1637581146350.jpeg" alt="Jeffrey de Graaf" width="265" />
 
 ## Work
-
-I'm a DevOps Engineer.
 
 On a working day, I care about bringing the best experience to end users. Validating use cases, improving website speed but also pragmatically improve (technical) parts of the ecosystem.
 
@@ -33,7 +25,7 @@ In my spare time playing some board games, do some cooking (Curry, Rendang, Past
 
 ### Photography 📷
 
-I take a lot of photos, during a walk or holidays. It's a challenge for me to go out, with minimal gear and deliver the most exciting composition and detail.
+I take a lot of photos, during a walk or holidays. It's a challenge for me to go out, with minimal camera gear and deliver the most exciting composition and detail.
 Some organisations requested me to take photo's at their event, <a href="https://ladolcevita-more.com/albums/" target="_blank">view photos</a>.
 
 Some photos are available to buy:

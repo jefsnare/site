@@ -7,19 +7,13 @@ eleventyNavigation:
   order: 3
 ---
 
-I'm a DevOps Engineer and mainly working on web platforms.
-
-My experience is more than nine years of development experience in e-commerce, custom-built internal tools, and marketing platforms.
+My experience 10+ years of development experience in e-commerce, custom-built internal tools, and marketing platforms.
 Overall perspective, modularization from the core, and a pragmatic approach are characteristics I've developed over time.
 I'm always keen to learn something new, and I want to know every detail about it.
 
-<a href="https://github.com/jefsnare" target="_blank">[Github]</a> | <a href="https://stackoverflow.com/users/1535919/jeffrey-de-graaf?tab=topactivity" target="_blank">[StackOverflow]</a>
-
-<img src="/img/jeffrey-work.jpg" alt="Jeffrey de Graaf - work" />
-
 ## Experience
 
-In the past years, I've been building and maintaining medium to large scale web-apps and websites.
+In the past years, I've been architecting, building and maintaining medium to large scale web-apps and websites.
 
 - Micro frontends and microservices
 - (Headless) CMS solutions (Bloomreach Hippo CMS, Sitecore, Kentico, Magento)
